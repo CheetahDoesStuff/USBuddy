@@ -1,6 +1,9 @@
 # USBuddy - A USB Hub!
 ***USBuddy is a TINY USBHub with a built in hole to put it on a keychain or backpack! (If you need to plug more USB cables into your backpack than the backpack has ports for)***
 
+## The files
+Yes, the files are kinda wierdly and messily named here, but thats because if you want to view the project, you dont have to use said files! [Here](https://oshwlab.com/lucas.tornquist/project_ogpgzinl) is a public (i think) link to the project, or you can open the project directly in the EasyEDA editor [here](https://pro.easyeda.com/editor#id=725de4556d684fdea2ee91902c0ddd37).
+
 ## Why did i make this?
 For 2 reasons:
 - I have not done any hardware projects in ~2 months and needed a refresher on PCB/Schematic making by making a small practise project.
